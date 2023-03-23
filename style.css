@@ -1,0 +1,45 @@
+body {
+    background-color: gray;
+  }
+h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 300%;
+}
+p {
+    color: black;
+    font-family: courier;
+    font-size: 160%;
+}
+
+img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 400px;
+}
+
+header {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+ul {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: 	#5A5A5A;
+    border-style: solid;
+
+  }
+  
+li a {
+    display: block;
+    color: #000;
+    padding: 4px 144px 8px 8px;
+    margin: auto;
+    text-decoration: none;
+    border-style: dotted;
+}
